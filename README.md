@@ -14,7 +14,7 @@
  - Tailwindcss
  - Axios 
  - Reactjs com typescript
- -dayjs 
+ - dayjs 
  - clx
 
 
@@ -26,6 +26,7 @@
  - radix
  - npm i dayjs  
  - npm i clx 
+ - npm create vite@latest
  
 ## Instalação da Tecnologia Back End
  - nodejs typescript
